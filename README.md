@@ -27,3 +27,9 @@ Eight school metrics were evaluated as follows:
 4. The Average Math Scores for Each Grade Level – Average math scores are provided by grade level for the 15 schools in the districts.  The only change is that the average math score for ninth graders at Thomas High School is shown as “NaN.”
 
 5. The Average Reading Scores for Each Grade Level - Same results as the previous item except this report focuses on average reading scores instead of average math scores so the only change is that the average reading score for ninth graders at Thomas High School is "NaN.
+
+6. Scores by School Spending by Student – This report assigns spending ranges per student into four categories: > $586, $586-$630, $631-$645, and $647-$675.  The average math and reading scores are shown in addition to the passing scores for math, reading, and both.  Schools with lower per student spending performed better, which may seem counterintuitive but may suggest that increased spending does not guarantee better results.  No changes were noted with the deletion of ninth grade data from Thomas High School.  
+
+7. Scores by School Size – This report classifies schools by three sizes: small (less than 1,000 students), medium (1,000-1,999 students), and large (2,000-5,000) students.  Smaller schools had better results, which could demonstrate that larger school may not be able to provide more individualized attention to students.  No significant changes were observed when taking out the ninth grade data from Thomas High School.
+
+8. Scores by School Type – Schools in the district are either charter or district schools.  Charter schools had significantly higher passing rates for math and the overall passing rate.  Charter schools may be able to give students more one-on-one guidance, which could then be reflected in higher scores.  No significant changes were observed when excluding the ninth grade data from Thomas High School.
