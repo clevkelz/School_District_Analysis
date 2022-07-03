@@ -16,4 +16,12 @@ Eight school metrics were evaluated as follows:
 
 The removal of the data showing potential academic dishonesty did not have a large impact on the overall passing rate for math or reading.  There were slight declines in the percentage of students who passed math, reading, and both areas.  These results are not unexpected as number of ninth graders at Thomas High School (the impacted group) was only 1.2% of all students in the district. (461 students out of the entire district population of 39,170.)
 
-2. 
+2. School Summary – The average and passing math and reading scores were supplemented by the school type (charter or district), the total school budget, and the per student budget.  The three schools with budgets over $3 million had over 4,500 students.  The per student budget did not vary much with a low of $578 to a high of $655.  The per student budget was on the lower end of this range for most of the charter schools.  Average math and reading scores along with the percentage of students passing math, reading, or both were generally higher for the charter schools.
+
+**Original Results for Thomas High School**
+![image](https://user-images.githubusercontent.com/106293233/177031504-1cfc2b61-76e6-4a71-82a8-d16b6bc9deb9.png)
+
+**Updated Results for Thomas High School**
+![image](https://user-images.githubusercontent.com/106293233/177031528-ba69bcf3-2ada-47b7-a870-d525df811b3a.png)
+
+Removing the ninth grade students and their associated test scores from Thomas High School results in a much higher passing rate for reading, math, and the two scores combined.  This may indicate that ninth grade scores were deliberately understated as the freshmen scores were not at all consistent with the results of the upperclassmen at the same school.
