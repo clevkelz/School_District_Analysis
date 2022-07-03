@@ -33,3 +33,11 @@ Eight school metrics were evaluated as follows:
 7. Scores by School Size – This report classifies schools by three sizes: small (less than 1,000 students), medium (1,000-1,999 students), and large (2,000-5,000) students.  Smaller schools had better results, which could demonstrate that larger school may not be able to provide more individualized attention to students.  No significant changes were observed when taking out the ninth grade data from Thomas High School.
 
 8. Scores by School Type – Schools in the district are either charter or district schools.  Charter schools had significantly higher passing rates for math and the overall passing rate.  Charter schools may be able to give students more one-on-one guidance, which could then be reflected in higher scores.  No significant changes were observed when excluding the ninth grade data from Thomas High School.
+
+## Summary
+Redoing the analysis by taking out reading and math scores was necessary to have a more robust understanding of school district performance.  These changes were noted when the reading and math score for ninth graders at Thomas High School were removed.
+- The largest impact was on the individual school level.  Passing rates rose sharply.
+- Because of the large increase in the passing rates, the bank moved from a middle-of-the pack performance to one of the two top schools.
+- The impact to the overall district was not significant as the number of student records removed only represented about 1% of the total student population.
+- No significant changes were noted in the in measurements by school type, per student spending, or by school size.  Since the impacted population is not large relative to the entire district population or even other schools in the same measurement bins, removing the data does not have a material difference in any of the measurements that are made at districtwide level.
+
