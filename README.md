@@ -24,3 +24,6 @@ Eight school metrics were evaluated as follows:
 
 3. Top and Button Five Schools Based on Passing Rate - This metric contains the same information as the School Summary but presented in slightly different manner to highlight the schools with the best and worst passing rates.  Excluding the suspect data caused Thomas High School to move from the middle of the pack (8th of 15 schools ranked by passing scores) to second.
 
+4. The Average Math Scores for Each Grade Level – Average math scores are provided by grade level for the 15 schools in the districts.  The only change is that the average math score for ninth graders at Thomas High School is shown as “NaN.”
+
+5. The Average Reading Scores for Each Grade Level - Same results as the previous item except this report focuses on average reading scores instead of average math scores so the only change is that the average reading score for ninth graders at Thomas High School is "NaN.
